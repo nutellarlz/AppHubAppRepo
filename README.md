@@ -1,7 +1,5 @@
 # AppHubAppRepo
-A repo for all apps in the AppHub market for Android
-
-[AppHub Market](https://github.com/JTechMe/AppHub)
+A repo for all apps in the [AppHub Market](https://github.com/JTechMe/AppHub) for Android
 
 An example of how to get started can be found in the JumpGo app folder located in apk/com.jtechme.jumpgo/ in both the apps/ folder and the source/ folder.
 

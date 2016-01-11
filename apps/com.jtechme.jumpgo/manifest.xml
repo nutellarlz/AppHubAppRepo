@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+
+    <application
+        apphub:name="com.jtechme.jumpgo"
+        apphub:icon="@mipmap/ic_launcher"
+        apphub:label="@string/app_name"
+	apphub:path="@string/apk_file">
+
+</manifest>

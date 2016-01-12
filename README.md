@@ -21,7 +21,7 @@ The folder structure for uploading apps to the AppHub App repo goes as follows;
 * JumpGo
  * com.jtechme.jumpgo
 
-# License
+## License
 ````
 Copyright 2015 Josiah Horton
 

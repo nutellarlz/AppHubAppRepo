@@ -1,5 +1,5 @@
 # AppHubAppRepo
-A repo for all apps in the [AppHub Market](https://github.com/JTechMe/AppHub) for Android
+A GitHub repo for all apps that will be moved to the future AppHub server. The [AppHub Market](https://github.com/JTechMe/AppHub) currently uses the F-Droid server.
 
 An example of how to get started can be found in the JumpGo app folder located in apk/com.jtechme.jumpgo/ in both the apps/ folder and the source/ folder.
 
